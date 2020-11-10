@@ -1,0 +1,5 @@
+CREATE DATABASE proba 
+USE proba 
+CREATE TABLE try(
+  test INT 
+);
