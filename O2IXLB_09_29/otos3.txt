@@ -1,0 +1,11 @@
+Adatbazis K01 GROUP
+
+5. Feladat:
+	¤ egy könyvet több hallgató is használhat.
+	¤ egy könyv egy könyvtárhoz tartozik.
+	¤ egy hallgató több könyvet is kivehet.
+	
+	¤ egy szerzőnek több könyve is lehet.
+	¤ egy campuson több könyvtár is lehet.
+	¤ egy könyvnek több szerzője is lehet.
+	¤ egy szerzőnek több email címe is lehet.
