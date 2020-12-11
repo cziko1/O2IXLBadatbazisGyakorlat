@@ -1,0 +1,13 @@
+E-SQL API:
+	A SQL forráskódként van értelmezve nem külön funkcióhívásokkal
+	A SQL nem része a programnyelveknek, a SQL gazda nyelv elvan szeparálva
+	Bináris library, előfordítás CLI-re
+	Egyszerre csak egy rekordot lehet bevinni, többet nem.
+	
+CLI SQL API:
+	SQL injection veszély
+	A DBMS függvényeket ugyan úgy kezeli mint bármely másik külső függvényt
+	Vannak olyan API-k amelyek platformfüggetlenné teszik az SQL használatát, ODBC API driver managerből és repostory-ból állnak
+	különfunkciók vannak a kapcsolatfelvételre, a parancs csatorna nyitvatartására, a parancs átküldésére, eredmény fogadására, kapcsolat zárására
+	
+	
